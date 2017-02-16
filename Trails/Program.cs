@@ -10,6 +10,8 @@ namespace Trails
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello Git!!");
+            Console.ReadLine();
         }
     }
 }
