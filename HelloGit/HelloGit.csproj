@@ -7,8 +7,8 @@
     <ProjectGuid>{3FA6C238-5063-48CF-A120-602FA04BE288}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Trails</RootNamespace>
-    <AssemblyName>Trails</AssemblyName>
+    <RootNamespace>HelloGit</RootNamespace>
+    <AssemblyName>HelloGit</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
